@@ -1,0 +1,2 @@
+emendas_agrupadas_resultado.xlsx
+__pycache__/
